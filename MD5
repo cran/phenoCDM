@@ -1,0 +1,16 @@
+c289fbd2fdaca215a6b30aebbbd8dbe4 *DESCRIPTION
+bd45ae07217f29a678847699d240c54c *LICENSE
+fb9d8c18fd70e07d3bb562e2f5774b7b *NAMESPACE
+988b44debd2ffac2a8569de19eaa18d0 *R/fitCDM.R
+4f64cafa3ed5b85c5ec5899206100106 *R/getGibbsSumamry.R
+b596edfcc4f87e80650dbed3a323237f *R/phenoSim.R
+7f0c3cf5acc92380ce093a7401686383 *R/phenoSimPlot.R
+69d13a96ede00b671b04d38f6797c056 *R/plotPOGibbs.R
+cb57f4261e78fa5defef91935cdf101a *R/plotPost.R
+318c2c904e58654a26fc93878096d3e5 *inst/CITATION
+543028156ff0f665cd9e78ecd39f004b *man/fitCDM.Rd
+d2cd991089e05ac1f578d668048eb287 *man/getGibbsSummary.Rd
+2663c1bc19181fff9dbba88e1bd68fc7 *man/phenoSim.Rd
+13849894dbba4634df4486e8474ec759 *man/phenoSimPlot.Rd
+3f32f90b7870466ac0fced9320f12817 *man/plotPOGibbs.Rd
+314da4fc85434df491b9ec8ce4fd683e *man/plotPost.Rd
