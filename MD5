@@ -1,4 +1,4 @@
-5478312d541ad0289056dea1c34fea22 *DESCRIPTION
+410f97dfd54d6bb92292234765b83e6d *DESCRIPTION
 bd45ae07217f29a678847699d240c54c *LICENSE
 fb9d8c18fd70e07d3bb562e2f5774b7b *NAMESPACE
 988b44debd2ffac2a8569de19eaa18d0 *R/fitCDM.R
@@ -7,10 +7,18 @@ b596edfcc4f87e80650dbed3a323237f *R/phenoSim.R
 7f0c3cf5acc92380ce093a7401686383 *R/phenoSimPlot.R
 69d13a96ede00b671b04d38f6797c056 *R/plotPOGibbs.R
 cb57f4261e78fa5defef91935cdf101a *R/plotPost.R
-12261b09240ee5dff6187e4639ddd250 *inst/CITATION
+dc96835ce85f486304d9a7eafdea340b *build/vignette.rds
+189b893a4d7d372772f835cbb5f28ba8 *inst/CITATION
+fca8913477d0259503029fcca9678950 *inst/doc/getting-started.R
+88ddedb1a5b65887a48a36c125fe5e24 *inst/doc/getting-started.Rmd
+8a78a39abe01e19035abfadf7d953ea6 *inst/doc/getting-started.html
 543028156ff0f665cd9e78ecd39f004b *man/fitCDM.Rd
 d2cd991089e05ac1f578d668048eb287 *man/getGibbsSummary.Rd
 2663c1bc19181fff9dbba88e1bd68fc7 *man/phenoSim.Rd
 13849894dbba4634df4486e8474ec759 *man/phenoSimPlot.Rd
 3f32f90b7870466ac0fced9320f12817 *man/plotPOGibbs.Rd
 314da4fc85434df491b9ec8ce4fd683e *man/plotPost.Rd
+6b9e36eefb4fc54482835cde6bc12782 *vignettes/fig1.png
+7033a44824bef74b09d8e26b76b86f8f *vignettes/fig2.png
+fbc96adfe955cad75e4cb6e2e02efb37 *vignettes/fig3.png
+88ddedb1a5b65887a48a36c125fe5e24 *vignettes/getting-started.Rmd
